@@ -1,7 +1,7 @@
 # Animated portfolio website template
 This repository is an extended version of another [portfolio template](https://shihabiiuc.github.io/portfolio/index.html) that is also created by me. In this portfolio template, I only added JavaScript animation (AOS). You can check the finished product [here](https://shihabiiuc.github.io/animated-portfolio/index.html).
 This an one page portfolio template that you can download and use on your own project or to create a website. You are allowed to edit and make your portfolio website exactly the way you want.
-https://raw.githubusercontent.com/caribbean961/animated-portfolio/main/assets/3d-image-design.png
+https://raw.githubusercontent.com/caribbean961/animated-portfolio/main/assets/images/3d-image-design.png
 
 _However, you're **not allowed to make it available for download on any other websites** or you can't exchange this template with any commercial intent._
 
