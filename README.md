@@ -20,5 +20,5 @@ I included these files (partials) because some of you may like to use SASS. But 
 ## Where to get support or if you have any questions?
 Most of you may not need extra support or don't have questions because of the simplicity. But if it's you who need help or has a question, then find my contact detail here:
 [Shihabiiuc.com/contact](https://shihabiiuc.com/contact)
-
+##
 ####
