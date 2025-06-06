@@ -1,9 +1,4 @@
 #about {
-  .content {
-    h2 {
-      text-align: center;
-    }
-  }
   .about-container {
     display: block;
     @media screen and (min-width: 768px) {
@@ -11,6 +6,11 @@
       justify-content: space-between;
       
     }
+  .content {
+    h2 {
+      text-align: center;
+    }
+  }
   }
   .about-container-left {
     flex-basis: 40%;
