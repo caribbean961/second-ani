@@ -3,4 +3,5 @@ const mobileNavs = document.getElementsByClassName("nav-links")[0]
 
 hamburger.addEventListener("click", () => {
   mobileNavs.classList.toggle("active")
+  console.log("");
 })
